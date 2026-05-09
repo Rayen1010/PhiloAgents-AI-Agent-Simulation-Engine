@@ -1,0 +1,129 @@
+{
+  "company": {
+    "name": "Tabreed Thermal Control",
+    "tagline": "Innovative Refrigeration and HVAC Solutions",
+    "description": "Tabreed Thermal Control specializes in providing innovative Refrigeration and HVAC solutions that optimize equipment operation and control energy costs. The company offers fully licensed expertise in Refrigeration, HVAC, and Automation Control systems, with a strong focus on sustainable CO2 refrigeration technology.",
+    "location": {
+      "address": "2 King Street West Unit #121",
+      "city": "Hamilton",
+      "province": "Ontario",
+      "postal_code": "L8P 4S0",
+      "country": "Canada"
+    },
+    "contact": {
+      "email": "service@tabreed.ca",
+      "phone": "+1 905 512-0613"
+    },
+    "licenses_and_memberships": [
+      "Licensed by the T.S.S.A.",
+      "Member of the HRAI"
+    ],
+    "specializations": [
+      "Refrigeration",
+      "HVAC",
+      "Automation Control",
+      "CO2 Refrigeration Systems"
+    ],
+    "mission": "To provide innovative, energy-efficient, and environmentally friendly Refrigeration and HVAC solutions while delivering excellent workmanship and customer service."
+  },
+  "services": [
+    {
+      "title": "Refrigeration & HVAC Service & Repair",
+      "description": "Fast and reliable repair services for scheduled maintenance and emergency breakdowns to minimize downtime."
+    },
+    {
+      "title": "Retrofit Projects",
+      "description": "Equipment retrofits and upgrades for regulatory compliance, energy savings, and enhanced operational control."
+    },
+    {
+      "title": "Automation & Integration",
+      "description": "Integration of Building Automation Systems (BAS), VFDs, VAV systems, and advanced refrigeration controls for improved monitoring and efficiency."
+    },
+    {
+      "title": "Preventative Maintenance",
+      "description": "Customized preventative maintenance programs designed to maximize efficiency and extend equipment lifespan."
+    }
+  ],
+  "industries_served": [
+    "Commercial Buildings",
+    "Processing Plants",
+    "Churches",
+    "Cold Storage Warehouses",
+    "Storage Rooms",
+    "Supermarkets",
+    "Convenience Stores",
+    "Restaurants",
+    "Deli, Dairy, Produce Facilities"
+  ],
+  "equipment_serviced": [
+    "Fresh Meat Refrigerated Cases",
+    "Reach-In Freezers and Coolers",
+    "Walk-In Freezers and Coolers",
+    "Chillers",
+    "Blast Freezers",
+    "Customized Freezers and Coolers",
+    "Ice Machines",
+    "Soft Serve Machines"
+  ],
+  "co2_refrigeration": {
+    "title": "Sustainable CO2 Refrigeration Solutions",
+    "benefits": [
+      {
+        "name": "Environmentally Friendly",
+        "description": "CO2 Refrigeration has a global warming potential of 1, making it one of the most sustainable refrigerants available."
+      },
+      {
+        "name": "Versatile",
+        "description": "Suitable for commercial refrigeration, industrial refrigeration, and HVAC applications while integrating with existing systems."
+      },
+      {
+        "name": "Cost Effective",
+        "description": "Provides long-term cost savings through improved energy efficiency and reduced maintenance requirements."
+      },
+      {
+        "name": "Energy Efficient",
+        "description": "Can reduce energy consumption by up to 10% compared to traditional refrigerants."
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "author": "Wadi Muhammad",
+      "review": "Very professional and friendly service. Great HVAC and refrigeration expertise."
+    },
+    {
+      "author": "Rosedale Sports Bar",
+      "review": "Fantastic service, honest diagnostics, and reliable repairs. Highly recommended."
+    },
+    {
+      "author": "Dien Woudenberg",
+      "review": "Highly skilled, knowledgeable, trustworthy, and reasonably priced HVAC service."
+    },
+    {
+      "author": "Ancaster Ice Cream Parlour",
+      "review": "Excellent support with soft serve machine repairs, even after business hours."
+    }
+  ],
+  "blog_topics": [
+    {
+      "title": "The Benefits of Integrating HVAC & Refrigeration Systems",
+      "summary": "How integrated systems improve efficiency and reduce operational costs."
+    },
+    {
+      "title": "Cutting Costs & Carbon Footprints with CO2 Solutions",
+      "summary": "How CO2 refrigeration supports sustainability and energy savings."
+    },
+    {
+      "title": "Why Regular HVAC & Refrigeration Maintenance is Critical",
+      "summary": "The importance of routine maintenance for reliable operation and system longevity."
+    }
+  ],
+  "website_sections": [
+    "Home",
+    "Services",
+    "About Us",
+    "Contact Us",
+    "Terms & Conditions",
+    "Privacy Policy"
+  ]
+}
