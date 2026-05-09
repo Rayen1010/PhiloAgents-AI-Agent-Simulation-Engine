@@ -5,7 +5,7 @@ from typing import Dict, Any, List
 from datetime import datetime
 
 
-class Chatbot(BaseModel):
+class AgentExtract(BaseModel):
     """Generic chatbot configuration"""
     
     id: str = Field(..., description="Unique chatbot identifier")
