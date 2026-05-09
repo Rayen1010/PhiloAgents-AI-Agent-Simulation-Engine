@@ -1,0 +1,95 @@
+{
+  "client": {
+    "id": "CLIENT-006",
+    "name": "Rayen Ben Abdallah",
+    "company_name": "Dar El Hane",
+    "contact": {
+      "email": "rayen.ibenabdallah@ensi-uma.tn"
+    },
+    "status": "Active",
+    "location": {
+      "city": "Ariana",
+      "country": "Tunisia"
+    },
+    "systems": {
+      "total_installed": 10,
+      "systems_list": [
+        {
+          "system_id": "SYS-001",
+          "type": "Heat Pump",
+          "model": "Sanden SANCO2",
+          "serial_number": "SAN-2024-0512",
+          "installation_date": "2024-01-15",
+          "capacity_kw": 10,
+          "refrigerant": "CO2",
+          "operating_hours": 2456,
+          "status": "Operating Normally",
+          "uptime_percentage": 99.2,
+          "location": "Building A, Floor 2",
+          "next_service_date": "2026-05-20",
+          "real_time_monitoring": {
+            "current_cop": 3.8,
+            "room_temperature_celsius": 22.5,
+            "energy_input_kw": 2.5,
+            "heating_capacity_kw": 9.5
+          },
+          "energy_analytics": {
+            "daily_consumption_kwh": 45.8,
+            "weekly_consumption_kwh": 294.1,
+            "monthly_consumption_kwh": 1240.0
+          },
+          "cost_tracking": {
+            "monthly_savings_percentage": 7.3,
+            "monthly_savings_usd": 45.2,
+            "annual_projection_usd": 542.4
+          }
+        },
+        {
+          "system_id": "SYS-002",
+          "type": "Walk-In Cooler",
+          "status": "Active"
+        },
+        {
+          "system_id": "SYS-003",
+          "type": "Commercial Freezer",
+          "status": "Active"
+        },
+        {
+          "system_id": "SYS-004",
+          "type": "Chiller",
+          "status": "Active"
+        },
+        {
+          "system_id": "SYS-005",
+          "type": "HVAC Rooftop Unit",
+          "status": "Active"
+        },
+        {
+          "system_id": "SYS-006",
+          "type": "Blast Freezer",
+          "status": "Maintenance Scheduled"
+        },
+        {
+          "system_id": "SYS-007",
+          "type": "Ice Machine",
+          "status": "Active"
+        },
+        {
+          "system_id": "SYS-008",
+          "type": "Automation Control System",
+          "status": "Active"
+        },
+        {
+          "system_id": "SYS-009",
+          "type": "Reach-In Cooler",
+          "status": "Active"
+        },
+        {
+          "system_id": "SYS-010",
+          "type": "CO2 Refrigeration System",
+          "status": "Operating Normally"
+        }
+      ]
+    }
+  }
+}
